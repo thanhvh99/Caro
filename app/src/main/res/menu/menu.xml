@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/newGame"
+        android:title="@string/menu_new_game" />
+    <item android:title="@string/menu_difficulty" >
+
+        <menu>
+            <item android:id="@+id/difficultyEasy" android:title="@string/difficulty_easy"/>
+            <item android:id="@+id/difficultyNormal" android:title="@string/difficulty_normal" />
+            <item android:id="@+id/difficultyHard" android:title="@string/difficulty_hard" />
+        </menu>
+
+    </item>
+
+</menu>

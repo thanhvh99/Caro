@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Caro</string>
+    <string name="menu_new_game">New Game</string>
+    <string name="menu_difficulty">Difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
+</resources>
